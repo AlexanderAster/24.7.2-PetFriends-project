@@ -1,5 +1,6 @@
 # 24.7.2-PetFriends-project
 Проект по реализации и тестированию API методов для сервиса: [Pet Friends](https://petfriends.skillfactory.ru/)
+API документация Swagger: [Flasgger](https://petfriends.skillfactory.ru/apidocs/#/)
 1) Используемый интерпретатор Visual Studio code
 2) Все файлы располагаются в папке tests
 3) В директории images лежат картинки для теста добавления питомца и теста добавления фото
